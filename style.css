@@ -1,0 +1,404 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.first{
+    width: 100%;
+    height: 65px;
+    background-color: black;
+   
+}.inner1{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}.logo{
+   margin-left: 65px;
+    margin-top: 2%;
+    color: white;
+    font-style:inherit ;
+    font-size: 24px;
+   
+}.select{
+    float: left;
+    width: 79px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border: 0px;
+    border-color: black;
+    margin-left: 5%;
+    margin-top: 2%;
+
+}.para{
+    width: 50px;
+    height: 5px;
+    margin-left: 5%;
+    margin-top: 0%;
+    border-color: black;
+    color: white;
+    float: left;
+    font-size: 15px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}.para1{
+    width: 50px;
+    height: 5px;
+    margin-left: 3%;
+    margin-top: 0%;
+    border-color: black;
+    color: white;
+    float: left;
+    font-size: 15px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+
+}.para2{
+    width: 150px;
+    height: 10px;
+    margin-left: 3%;
+    margin-top: 1%;
+    border-color: black;
+    color: white;
+    float: left;
+    font-size: 15px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}.inner2{
+    width: 50%;
+    float: left;
+    align-items: center;
+    padding-left: 67%;
+    margin-top: -2%;
+    color: aliceblue;
+    
+}.second{
+    width: 100%;
+    height: 500px;
+    background-color:white;
+}.starting{
+    line-height: 64px;
+    font-size: 52px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    color: #333333;
+    margin-top: 0%;
+    margin-left: 6%;
+    padding-top: 5%;
+    
+}.button1{
+    width: 12%;
+    height: 47px;
+    margin-top: 3%;
+    margin-left: 7%;
+    background-color: black;
+    color: white;
+    border: none;
+    
+
+}img{
+    position: absolute;
+    width: 500px;
+    height: 340px;
+    margin-left: 436px;
+    margin-top: -238px;
+}.third{
+    height: 500px;
+    width: 100%;
+    background-color:white;
+}.heading{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+     margin-top: 1%;
+     margin-left: 6%;
+     color: black;
+     width: 35%;
+     font-size: 36px;
+     font-weight: 500;
+}.heading1{
+    margin-top: 3%;
+    margin-left: 6%;
+    font-size: 18px;
+    font-weight: 500px;
+    width: 10%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}.heading2{
+    
+    margin-top: -18%;
+    margin-left: 36%;
+    font-size: 18px;
+    font-weight: 500px;
+    width: 10%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}.heading3{
+    margin-top: -23%;
+    margin-left: 66%;
+    font-size: 18px;
+    font-weight: 500px;
+    width: 10%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}.four{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}.heading4{
+    margin-top: 3%;
+    margin-left: 6%;
+    font-size: 36px;
+    font-weight: 500px;
+    width: 45%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}.map{
+    width: 758px;
+    height: 427px;
+    margin-left: 92px;
+    margin-top: -4%;
+
+}.five{
+    width: 100%;
+    height: 350px;
+    background-color:white;
+}.para3{
+    width: -24px;
+    height: 10px;
+    margin-left: 5%;
+    margin-top: 25%;
+    color: rgb(0, 0, 0);
+    float: left;
+    font-size: 15px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    
+}.heading5{
+    margin-top: 3%;
+    margin-left: 6%;
+    font-size: 36px;
+    font-weight: 500px;
+    width: 45%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}.button2{
+    background-color: transparent;
+    
+    border: none;
+   
+
+
+    height: 0%;
+    margin-left: 6%;
+    margin-top: 3%;
+    width: 112px;
+    font-size: large;
+} .heading6{
+    margin-top: 10%;
+    margin-left: 6%;
+    font-size: 36px;
+    font-weight: 500px;
+    width: 45%;
+    
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+}.six{
+    height: 600px;
+    width: 100%;
+    background-color:white;
+}.para4{
+    margin-top: 2%;
+    margin-left: 7%;
+    font-weight: 250px;
+    cursor: pointer;
+}.para5{
+    margin-top: -1.5%;
+    margin-left: 15%;
+    font-weight: 250px;
+    cursor: pointer;
+
+}.para6{
+    margin-top: -1.5%;
+    margin-left: 25%;
+    font-weight: 250px;
+    cursor: pointer;
+}.green{
+    width: 20%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 6%;
+
+}.rent{
+    width: 20%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 38%;
+}.reserve{
+    width: 20%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 68%;
+
+}.heading7{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-size: 19px;
+    font-weight: 500px;
+    width: 45%;
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+
+}.heading8{
+    margin-top: -2%;
+    margin-left: 39%;
+    font-size: 19px;
+    font-weight: 500px;
+    width: 45%;
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+
+}.heading9{
+    margin-top: -1%;
+    margin-left: 69%;
+    font-size: 19px;
+    font-weight: 500px;
+    width: 45%;
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+
+}.para7{
+    margin-top: 1.5%;
+    margin-left: 6%;
+    font-weight: 434px;
+    width: 26%;
+    font-size: 19px;
+
+}.para8{
+    margin-top: -1.5%;
+    margin-left: 39%;
+    font-weight: 434px;
+    width: 26%;
+    font-size: 19px;
+}.para9{
+    margin-top: -1.5%;
+    margin-left: 69%;
+    font-weight: 434px;
+    width: 26%;
+    font-size: 19px;
+}.button3{
+    width: 263px;
+    height: 70px;
+    border: none;
+    background-color: transparent;
+    margin-top: 5%;
+    margin-left: 6%;
+    font-size: large;
+    cursor: pointer;
+
+}.button4{
+    width: 263px;
+    height: 70px;
+    border: none;
+    background-color: transparent;
+    margin-top: -3%;
+    margin-left: 38%;
+    font-size: large;
+    position: absolute;
+    cursor: pointer;
+}.button5{
+    width: 263px;
+    height: 70px;
+    border: none;
+    background-color: transparent;
+    margin-top: -3.5%;
+    margin-left: 69%;
+    font-size: large;
+    position: absolute;
+    cursor: pointer;
+
+}.para10{
+    margin-top: 2%;
+    margin-left: 86%;
+    font-size: large;
+    width: 50px;
+    height: 40px;
+}.button6{
+    width: 24px;
+    height: 22px;
+    margin-top: -3%;
+    margin-left: 90%;
+    border-radius: 12px;
+    position: absolute;
+    color: #AFAFAF;
+}.button7{
+    width: 24px;
+    height: 22px;
+    margin-top: -3%;
+    margin-left: 88%;
+    border-radius: 12px;
+ position: absolute;
+ color: #AFAFAF;
+}.para11{
+    margin-top: 1%;
+    margin-left: 6%;
+    font-size: medium;
+    width: 1266px;
+    height: 40px;
+}.seven{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    margin-top: 4%;
+}.ul{
+  margin-top: 24%; 
+ margin-left: 5%;
+ color: white;
+position: absolute;
+font-size: 15px;
+
+}li{
+    margin-top: 1cm;
+}.ul1{
+    margin-top: 24%; 
+    margin-left: 29%;
+    color: white;
+   position: absolute;
+   font-size: 15px;
+
+}.ul2{
+    margin-top: 24%; 
+    margin-left: 50%;
+    color: white;
+   position: absolute;
+   font-size: 15px;
+
+}.ul3{
+    margin-top: 24%; 
+    margin-left: 72%;
+    color: white;
+   position: absolute;
+   font-size: 15px;
+}.footter{
+    background-color:black;
+    width: 16cm;
+    height: 1cm;
+    margin-left: -24cm;
+    margin-top: 10cm;
+}.app{
+    width: 306px;
+    height: 41px;
+    margin-left: 176%;
+    margin-top: -1cm;
+}.playstore{
+    width: 306px;
+    height: 41px;
+    margin-left: -112%;
+    margin-top: -1cm;
+    
+
+
+}
+
+
+
+
+
+
